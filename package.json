@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Alan-Tsakul/Hexlet/issues"
   },
-  "homepage": "https://github.com/Alan-Tsakul/Hexlet#readme"
+  "homepage": "https://github.com/Alan-Tsakul/Hexlet#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
